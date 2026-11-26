@@ -20,7 +20,7 @@
   <img src="docs/images/grid.png" width="780" alt="ClipPastry's 'What should I paste?' grid showing pinned clips, a flight confirmation, screenshots, a link, a grocery list and code">
 </p>
 
-Every time you copy something, ClipPastry keeps a copy. When you press **⌘V**, it asks **"What should I paste?"** and shows your recent copies in a **3×3 grid**: text, links, images, screenshots and files. Each tile shows where the item came from and when you copied it. Press a number or click a tile and it's pasted.
+Every time you copy something, ClipPastry keeps a copy. When you press **⌘V**, it asks **"What should I paste?"** and shows your recent copies in a **3×3 grid**: text, links, images, screenshots and files. Each tile shows where the item came from and when you copied it. Press a number or click a tile and it's pasted. Need a clip on your iPhone? Click **☁︎** and it's in iCloud Drive.
 
 ---
 
@@ -71,17 +71,33 @@ Take a screenshot (⌘⇧3, ⌘⇧4 or ⌘⇧5) and ClipPastry copies it right a
 
 <p align="center"><img src="docs/images/screenshot-popup.png" width="460" alt="Popup: Screenshot copied, ⌘V to paste"></p>
 
+### Send clips to your iPhone
+Need a boarding pass, an address, a link or a screenshot on your phone? Click **☁︎** on any clip, or press **⌘S**, and ClipPastry saves it to **iCloud Drive › ClipPastry**. A moment later it's on your iPhone, iPad and your other Macs. To send several, ⌘-click them and click **iCloud**. A small ☁︎ on a tile means it's already saved.
+
+- Text is saved as a text file, pictures and screenshots at full size, and files as copies.
+- Only the clips you pick are uploaded, to your own iCloud account. Nothing goes up on its own.
+
+<p align="center"><img src="docs/images/icloud.png" width="560" alt="The grid with the iCloud button on the highlighted clip, small cloud marks on two saved clips, and the popup: Saved to iCloud Drive. In the ClipPastry folder. On iPhone: Files app → iCloud Drive → ClipPastry."></p>
+
+**Open them on your iPhone.** They're files in iCloud Drive, not in the iPhone keyboard.
+1. Open the **Files** app on your iPhone.
+2. Tap **Browse** at the bottom, then **iCloud Drive**, then the **ClipPastry** folder.
+3. Tap a file to open it, then touch and hold the text → **Select All** → **Copy**, and paste wherever you like. For a picture, tap the share button → **Copy**, or **Save Image** to put it in Photos.
+
+> **Tip:** touch and hold the ClipPastry folder → **Favorite** to reach it in one tap. If the folder isn't there yet, pull down to refresh, and check that iCloud Drive is on: **Settings → your name → iCloud → iCloud Drive**.
+
 ### Lives in your menu bar
 Click the ClipPastry icon (a little grid that spells **C P**) for:
 - your **last 3 copies**,
 - your **Pinned** clips,
 - **See More…** to open the full grid,
+- **Open iCloud Drive Folder** to see the clips you've sent to iCloud,
 - the settings.
 
 There's no Dock icon and nothing to manage. It starts by itself when you log in.
 
 ### Works with your other apps
-Dictation apps like **Wispr Flow**, text expanders and password managers paste by sending their own ⌘V. ClipPastry recognizes that and lets them paste normally, so only a ⌘V *you* press opens the grid. Copies that password managers mark as secret are **never saved or shown**.
+Dictation apps like **Wispr Flow**, text expanders and password managers paste by sending their own ⌘V. ClipPastry recognizes that and lets them paste normally, so only a ⌘V *you* press opens the grid. Copies that password managers mark as secret are **never kept in your history**.
 
 ### Updates itself
 ClipPastry checks for new versions once a day and offers to install them. You can also click **Check for Updates…** in its menu.
@@ -98,9 +114,11 @@ ClipPastry checks for new versions once a day and offers to install them. You ca
 | *type anything* | Search |
 | **← ↑ ↓ →** | Move around the grid |
 | **⌘P** | Pin / unpin |
+| **⌘S** | Save to iCloud Drive (the highlighted clip, or all selected) |
 | **⌘-click**, **Shift-click**, **⌘A** | Select several |
 | **⌫** | Remove (asks first) |
 | **Esc** | Clear the search, clear the selection, or close |
+| **Red dot** (top left) | Close the grid |
 | **⌃⌘V** (anywhere) | Open the grid any time |
 
 ---
@@ -124,9 +142,10 @@ ClipPastry is signed and **notarized by Apple**, so it opens without any "uniden
 
 ## Privacy
 
-- **Everything stays on your Mac.** Your clipboard history is saved only in `~/Library/Application Support/ClipPastry`, which only your user account can read. It's **excluded from Time Machine backups**.
-- **Passwords are never saved.** Copies that password managers mark as secret are skipped entirely.
-- **No accounts, no tracking, no analytics.** The only time ClipPastry goes online is the daily check for updates on this page.
+- **Everything stays on your Mac**, except clips you choose to send to iCloud Drive. Your clipboard history is saved only in `~/Library/Application Support/ClipPastry`, which only your user account can read. It's **excluded from Time Machine backups**.
+- **Passwords stay out of your history.** Copies that password managers mark as secret are never saved in ClipPastry's history. You can still send one to iCloud Drive yourself with ☁︎ while it's on your clipboard.
+- **iCloud only when you ask.** Clips you save with ☁︎ go to your own iCloud Drive, synced by your Mac's iCloud, and nowhere else.
+- **No accounts, no tracking, no analytics.** The only time ClipPastry itself goes online is the daily check for updates on this page.
 - **You're in control:** remove clips one at a time or all at once with **Clear History…**. To keep history only until you quit, untick **Keep History After Restart**.
 
 ---
@@ -161,7 +180,7 @@ ClipPastry doesn't have the Accessibility permission. Click its menu bar icon �
 No, only the ⌘V shortcut does. Clicking Paste in a menu pastes as usual.
 
 **Can I use it with my iPhone?**
-Apple's Universal Clipboard already works with ClipPastry. Pick any old item in ClipPastry on your Mac, and you can paste it on your iPhone within a couple of minutes. Things you copy on your iPhone usually show up in ClipPastry too.
+Yes, two ways. **Save to iCloud Drive:** click ☁︎ on a clip and open it in the **Files** app on your iPhone (see [Send clips to your iPhone](#send-clips-to-your-iphone)). It stays there until you delete it. **Universal Clipboard:** pick any item in ClipPastry on your Mac and you can paste it on your iPhone within a couple of minutes. Things you copy on your iPhone usually show up in ClipPastry too.
 
 **How do I uninstall it?**
 Quit ClipPastry from its menu, then drag it from Applications to the Trash. To also remove your saved history, delete `~/Library/Application Support/ClipPastry`.
