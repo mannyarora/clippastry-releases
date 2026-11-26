@@ -153,7 +153,7 @@ Yes. ClipPeek was renamed ClipPastry in version 1.0.2. Nothing else changed: if 
 When a password box is selected, in any app or browser, macOS turns on *secure input* and hides key presses from every app, ClipPastry included. Click out of the password box and the grid comes back.
 
 **⌘V never shows the grid.**
-ClipPastry doesn't have the Accessibility permission. Click its menu bar icon → **Needs Accessibility access…** and switch ClipPastry on. If it's already on, switch it off and on again: macOS sometimes keeps an old permission that no longer matches the app. (⌃⌘V opens the grid even without the permission.)
+ClipPastry doesn't have the Accessibility permission. Click its menu bar icon → **Needs Accessibility access…** and switch ClipPastry on. If it already looks on, macOS is holding an old permission from an earlier copy: select ClipPastry in that list, click **−** to remove it, then click **Needs Accessibility access…** again and switch it on. (⌃⌘V opens the grid even without the permission.)
 
 **Does Edit → Paste open the grid?**
 No, only the ⌘V shortcut does. Clicking Paste in a menu pastes as usual.
