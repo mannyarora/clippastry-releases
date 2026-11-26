@@ -167,9 +167,6 @@ ClipPastry is signed and **notarized by Apple**, so it opens without any "uniden
 
 ## FAQ
 
-**Wasn't this called ClipPeek?**
-Yes. ClipPeek was renamed ClipPastry in version 1.0.2. Nothing else changed: if you have ClipPeek, it updates itself, renames itself to ClipPastry, and keeps your history, pins, settings and permissions.
-
 **Sometimes ⌘V just pastes without the grid. Why?**
 When a password box is selected, in any app or browser, macOS turns on *secure input* and hides key presses from every app, ClipPastry included. Click out of the password box and the grid comes back.
 
