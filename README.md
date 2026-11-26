@@ -12,6 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/mannyarora/clippeek-releases/releases/latest"><b>⬇︎ Download the latest version</b></a>
+  &nbsp;·&nbsp; <a href="docs/ClipPeek-Guide.pdf">📄 Guide (PDF)</a>
+  &nbsp;·&nbsp; <a href="https://mannyaiguide.vercel.app/clippeek.html">🌐 ClipPeek on Manny's AI Guide</a>
 </p>
 
 <p align="center">
