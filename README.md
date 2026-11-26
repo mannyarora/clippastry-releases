@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>See your clipboard. Choose what to paste.</b><br>
-  A small, free menu bar app for macOS 14 Sonoma or later. Runs on Apple-silicon and Intel Macs.<br>
+  A small, free app for macOS 14 Sonoma or later. Runs on Apple-silicon and Intel Macs.<br>
   <sub>by Manish Arora</sub>
 </p>
 
