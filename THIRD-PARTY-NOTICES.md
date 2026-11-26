@@ -1,6 +1,6 @@
 # Third-party notices
 
-ClipPeek includes the following third-party software.
+ClipPastry includes the following third-party software.
 
 ## Sparkle 2.10.1
 

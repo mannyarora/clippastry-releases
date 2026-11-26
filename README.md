@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/images/icon.png" width="128" alt="ClipPeek app icon">
+  <img src="docs/images/icon.png" width="128" alt="ClipPastry app icon">
 </p>
 
-<h1 align="center">ClipPeek</h1>
+<h1 align="center">ClipPastry</h1>
 
 <p align="center">
   <b>See your clipboard. Choose what to paste.</b><br>
@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mannyarora/clippeek-releases/releases/latest/download/ClipPeek.dmg"><b>⬇︎ Download ClipPeek for Mac</b></a> <sub>(ClipPeek.dmg, 2 MB)</sub>
-  <br><a href="docs/ClipPeek-Guide.pdf">📄 Guide (PDF)</a> &nbsp;·&nbsp; <a href="https://github.com/mannyarora/clippeek-releases/releases">📝 Release notes</a>
-  &nbsp;·&nbsp; <a href="https://mannyaiguide.vercel.app/clippeek.html">🌐 ClipPeek on Manny's AI Guide</a>
+  <a href="https://github.com/mannyarora/clippastry-releases/releases/latest/download/ClipPastry.dmg"><b>⬇︎ Download ClipPastry for Mac</b></a> <sub>(ClipPastry.dmg, 2 MB)</sub>
+  <br><a href="docs/ClipPastry-Guide.pdf">📄 Guide (PDF)</a> &nbsp;·&nbsp; <a href="https://github.com/mannyarora/clippastry-releases/releases">📝 Release notes</a>
+  &nbsp;·&nbsp; <a href="https://mannyaiguide.vercel.app/clippastry.html">🌐 ClipPastry on Manny's AI Guide</a>
 </p>
 
 <p align="center">
-  <img src="docs/images/grid.png" width="780" alt="ClipPeek's 'What should I paste?' grid showing pinned clips, a flight confirmation, screenshots, a link, a grocery list and code">
+  <img src="docs/images/grid.png" width="780" alt="ClipPastry's 'What should I paste?' grid showing pinned clips, a flight confirmation, screenshots, a link, a grocery list and code">
 </p>
 
-Every time you copy something, ClipPeek keeps a copy. When you press **⌘V**, it asks **"What should I paste?"** and shows your recent copies in a **3×3 grid**: text, links, images, screenshots and files. Each tile shows where the item came from and when you copied it. Press a number or click a tile and it's pasted.
+Every time you copy something, ClipPastry keeps a copy. When you press **⌘V**, it asks **"What should I paste?"** and shows your recent copies in a **3×3 grid**: text, links, images, screenshots and files. Each tile shows where the item came from and when you copied it. Press a number or click a tile and it's pasted.
 
 ---
 
@@ -46,17 +46,17 @@ Press **⌘P** or click the pin icon on a tile to pin something you paste often,
 - They're also under **Pinned ▸** in the menu bar menu.
 
 ### Pinned clips are protected
-You can't delete a pinned clip unless you unpin it. If you try, ClipPeek tells you and offers an **Unpin** button.
+You can't delete a pinned clip unless you unpin it. If you try, ClipPastry tells you and offers an **Unpin** button.
 
 <p align="center"><img src="docs/images/pinned-protected.png" width="640" alt="Message: You can't delete a pinned clip unless you unpin it, with Unpin and OK buttons"></p>
 
 ### Delete one clip, or many at once
 - **One:** hover over a tile and click ✕, or press **⌫**.
 - **Many:** **⌘-click** tiles, **Shift-click** for a range, or **⌘A** for all. Then press **⌫** or click **Delete…**.
-- ClipPeek **always asks first**, and **Esc** keeps everything. If your selection includes pinned clips, only the unpinned ones are removed.
+- ClipPastry **always asks first**, and **Esc** keeps everything. If your selection includes pinned clips, only the unpinned ones are removed.
 
 <p align="center"><img src="docs/images/multi-select.png" width="640" alt="Three clips selected, with Pin, Delete and Done buttons"></p>
-<p align="center"><img src="docs/images/delete-confirm.png" width="640" alt="Confirmation: Remove 3 items from ClipPeek? 1 pinned clip is kept"></p>
+<p align="center"><img src="docs/images/delete-confirm.png" width="640" alt="Confirmation: Remove 3 items from ClipPastry? 1 pinned clip is kept"></p>
 
 ### Paste as plain text
 Hold **⌥ Option** while choosing (⌥1–⌥9, ⌥Return or ⌥-click) to paste without fonts, colors or links. That's useful when copying from a web page into an email or document.
@@ -66,13 +66,13 @@ A small, quiet popup shows what you just copied and which app it came from. You 
 
 <p align="center"><img src="docs/images/copied-popup.png" width="460" alt="Popup: Copied from Safari"></p>
 
-### Screenshots go straight to ClipPeek
-Take a screenshot (⌘⇧3, ⌘⇧4 or ⌘⇧5) and ClipPeek copies it right away, so **⌘V ⌘V pastes it**. The file is still saved where your screenshots normally go.
+### Screenshots go straight to ClipPastry
+Take a screenshot (⌘⇧3, ⌘⇧4 or ⌘⇧5) and ClipPastry copies it right away, so **⌘V ⌘V pastes it**. The file is still saved where your screenshots normally go.
 
 <p align="center"><img src="docs/images/screenshot-popup.png" width="460" alt="Popup: Screenshot copied, ⌘V to paste"></p>
 
 ### Lives in your menu bar
-Click the ClipPeek icon (a little grid that spells **C P**) for:
+Click the ClipPastry icon (a little grid that spells **C P**) for:
 - your **last 3 copies**,
 - your **Pinned** clips,
 - **See More…** to open the full grid,
@@ -81,10 +81,10 @@ Click the ClipPeek icon (a little grid that spells **C P**) for:
 There's no Dock icon and nothing to manage. It starts by itself when you log in.
 
 ### Works with your other apps
-Dictation apps like **Wispr Flow**, text expanders and password managers paste by sending their own ⌘V. ClipPeek recognizes that and lets them paste normally, so only a ⌘V *you* press opens the grid. Copies that password managers mark as secret are **never saved or shown**.
+Dictation apps like **Wispr Flow**, text expanders and password managers paste by sending their own ⌘V. ClipPastry recognizes that and lets them paste normally, so only a ⌘V *you* press opens the grid. Copies that password managers mark as secret are **never saved or shown**.
 
 ### Updates itself
-ClipPeek checks for new versions once a day and offers to install them. You can also click **Check for Updates…** in its menu.
+ClipPastry checks for new versions once a day and offers to install them. You can also click **Check for Updates…** in its menu.
 
 ---
 
@@ -107,13 +107,13 @@ ClipPeek checks for new versions once a day and offers to install them. You can 
 
 ## Install
 
-1. **[Download ClipPeek.dmg](https://github.com/mannyarora/clippeek-releases/releases/latest/download/ClipPeek.dmg)**. It always gets the newest version.
-2. Open it and **drag ClipPeek into Applications**.
-3. Open ClipPeek from Applications. Its icon appears in the menu bar at the top right of your screen.
-4. When macOS asks, allow ClipPeek in **System Settings → Privacy & Security → Accessibility**. On newer macOS this list is called **Device Control and Data Access**. This permission is what lets ClipPeek show the grid when you press ⌘V and paste your choice.
-5. macOS may also ask to let ClipPeek see the folder your screenshots are saved to (Desktop or Downloads). Allow it if you want screenshots in ClipPeek.
+1. **[Download ClipPastry.dmg](https://github.com/mannyarora/clippastry-releases/releases/latest/download/ClipPastry.dmg)**. It always gets the newest version.
+2. Open it and **drag ClipPastry into Applications**.
+3. Open ClipPastry from Applications. Its icon appears in the menu bar at the top right of your screen.
+4. When macOS asks, allow ClipPastry in **System Settings → Privacy & Security → Accessibility**. On newer macOS this list is called **Device Control and Data Access**. This permission is what lets ClipPastry show the grid when you press ⌘V and paste your choice.
+5. macOS may also ask to let ClipPastry see the folder your screenshots are saved to (Desktop or Downloads). Allow it if you want screenshots in ClipPastry.
 
-ClipPeek is signed and **notarized by Apple**, so it opens without any "unidentified developer" warning.
+ClipPastry is signed and **notarized by Apple**, so it opens without any "unidentified developer" warning.
 
 **Requirements:** macOS 14 Sonoma or later, on an Apple-silicon or Intel Mac.
 
@@ -121,9 +121,9 @@ ClipPeek is signed and **notarized by Apple**, so it opens without any "unidenti
 
 ## Privacy
 
-- **Everything stays on your Mac.** Your clipboard history is saved only in `~/Library/Application Support/ClipPeek`, which only your user account can read. It's **excluded from Time Machine backups**.
+- **Everything stays on your Mac.** Your clipboard history is saved only in `~/Library/Application Support/ClipPastry`, which only your user account can read. It's **excluded from Time Machine backups**.
 - **Passwords are never saved.** Copies that password managers mark as secret are skipped entirely.
-- **No accounts, no tracking, no analytics.** The only time ClipPeek goes online is the daily check for updates on this page.
+- **No accounts, no tracking, no analytics.** The only time ClipPastry goes online is the daily check for updates on this page.
 - **You're in control:** remove clips one at a time or all at once with **Clear History…**. To keep history only until you quit, untick **Keep History After Restart**.
 
 ---
@@ -145,28 +145,31 @@ ClipPeek is signed and **notarized by Apple**, so it opens without any "unidenti
 
 ## FAQ
 
+**Wasn't this called ClipPeek?**
+Yes. ClipPeek was renamed ClipPastry in version 1.0.2. Nothing else changed: if you have ClipPeek, it updates itself, renames itself to ClipPastry, and keeps your history, pins, settings and permissions.
+
 **Sometimes ⌘V just pastes without the grid. Why?**
-When a password box is selected, in any app or browser, macOS turns on *secure input* and hides key presses from every app, ClipPeek included. Click out of the password box and the grid comes back.
+When a password box is selected, in any app or browser, macOS turns on *secure input* and hides key presses from every app, ClipPastry included. Click out of the password box and the grid comes back.
 
 **Does Edit → Paste open the grid?**
 No, only the ⌘V shortcut does. Clicking Paste in a menu pastes as usual.
 
 **Can I use it with my iPhone?**
-Apple's Universal Clipboard already works with ClipPeek. Pick any old item in ClipPeek on your Mac, and you can paste it on your iPhone within a couple of minutes. Things you copy on your iPhone usually show up in ClipPeek too.
+Apple's Universal Clipboard already works with ClipPastry. Pick any old item in ClipPastry on your Mac, and you can paste it on your iPhone within a couple of minutes. Things you copy on your iPhone usually show up in ClipPastry too.
 
 **How do I uninstall it?**
-Quit ClipPeek from its menu, then drag it from Applications to the Trash. To also remove your saved history, delete `~/Library/Application Support/ClipPeek`.
+Quit ClipPastry from its menu, then drag it from Applications to the Trash. To also remove your saved history, delete `~/Library/Application Support/ClipPastry`.
 
 ---
 
 ## License
 
-**ClipPeek © 2026 Manish Arora. All rights reserved.**
+**ClipPastry © 2026 Manish Arora. All rights reserved.**
 
 - **Personal use:** free.
 - **Commercial use** (at a business, school or other organization): **requires a commercial license**. For licensing, email **aroramanish70@gmail.com**.
-- Please don't sell, modify or redistribute ClipPeek. Share this page instead.
+- Please don't sell, modify or redistribute ClipPastry. Share this page instead.
 
-Full terms are in [LICENSE.md](LICENSE.md). ClipPeek includes [Sparkle](https://sparkle-project.org) for updates; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+Full terms are in [LICENSE.md](LICENSE.md). ClipPastry includes [Sparkle](https://sparkle-project.org) for updates; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
-<p align="center"><sub>ClipPeek © 2026 Manish Arora · <a href="mailto:aroramanish70@gmail.com">aroramanish70@gmail.com</a></sub></p>
+<p align="center"><sub>ClipPastry © 2026 Manish Arora · <a href="mailto:aroramanish70@gmail.com">aroramanish70@gmail.com</a></sub></p>
