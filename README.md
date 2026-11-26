@@ -162,7 +162,7 @@ Quit ClipPeek from its menu, then drag it from Applications to the Trash. To als
 **ClipPeek © 2026 Manish Arora. All rights reserved.**
 
 - **Personal use:** free.
-- **Commercial use** (at a business, school or other organization): also free, but **please let us know first** at **aroramanish70@gmail.com**.
+- **Commercial use** (at a business, school or other organization): **requires a commercial license**. For licensing, email **aroramanish70@gmail.com**.
 - Please don't sell, modify or redistribute ClipPeek. Share this page instead.
 
 Full terms are in [LICENSE.md](LICENSE.md). ClipPeek includes [Sparkle](https://sparkle-project.org) for updates; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
