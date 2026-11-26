@@ -28,8 +28,7 @@ Every time you copy something, ClipPastry keeps a copy. When you press **⌘V**,
 
 ### ⌘V asks what to paste
 - Your **last 99 copies**, 9 at a time in a 3×3 grid. **Scroll** for older ones. You can set how many to keep (9–99) with a slider in the menu.
-- Press **1–9** to paste a tile instantly, or press **⌘V twice** to paste your latest copy as usual.
-- Use the **arrow keys + Return**, or just **click** a tile.
+- **Click** a tile to paste it, or use the **arrow keys + Return**. Press **⌘V twice** to paste your latest copy as usual.
 - Each tile shows a **preview** (text, image thumbnail with its size, or file), the **app** it came from, and the **date and time** you copied it, such as *Today 9:41 AM*, *Yesterday 7:05 PM* or *Nov 23, 10:02 AM*.
 - **NOW** marks what's on your clipboard right now.
 
@@ -40,7 +39,7 @@ The search bar is always at the top of the grid. Start typing to filter your who
 
 ### Pin your favorites
 Press **⌘P** or click the pin icon on a tile to pin something you paste often, like your email address, home address or a standard reply.
-- Pinned clips sit **first in the grid**, so they're always on the same number keys.
+- Pinned clips sit **first in the grid**.
 - They **never age out** and **survive Clear History**.
 - **⌘V ⌘V still pastes your latest copy**, not a pin.
 - They're also under **Pinned ▸** in the menu bar menu.
@@ -59,7 +58,7 @@ You can't delete a pinned clip unless you unpin it. If you try, ClipPastry tells
 <p align="center"><img src="docs/images/delete-confirm.png" width="640" alt="Confirmation: Remove 3 items from ClipPastry? 1 pinned clip is kept"></p>
 
 ### Paste as plain text
-Hold **⌥ Option** while choosing (⌥1–⌥9, ⌥Return or ⌥-click) to paste without fonts, colors or links. That's useful when copying from a web page into an email or document.
+Hold **⌥ Option** while choosing (⌥Return or ⌥-click) to paste without fonts, colors or links. That's useful when copying from a web page into an email or document.
 
 ### A popup for every copy
 A small, quiet popup shows what you just copied and which app it came from. You can turn it off, or move it to the top or bottom of the screen.
@@ -108,7 +107,6 @@ ClipPastry checks for new versions once a day and offers to install them. You ca
 
 | In the grid | What it does |
 |---|---|
-| **1–9** | Paste that tile (while the search box is empty) |
 | **⌘V** (again) or **Return** | Paste the highlighted tile (your latest copy by default) |
 | **⌥** + any of the above | Paste as plain text |
 | *type anything* | Search |
