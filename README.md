@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mannyarora/clippeek-releases/releases/latest"><b>⬇︎ Download the latest version</b></a>
-  &nbsp;·&nbsp; <a href="docs/ClipPeek-Guide.pdf">📄 Guide (PDF)</a>
+  <a href="https://github.com/mannyarora/clippeek-releases/releases/latest/download/ClipPeek.dmg"><b>⬇︎ Download ClipPeek for Mac</b></a> <sub>(ClipPeek.dmg, 2 MB)</sub>
+  <br><a href="docs/ClipPeek-Guide.pdf">📄 Guide (PDF)</a> &nbsp;·&nbsp; <a href="https://github.com/mannyarora/clippeek-releases/releases">📝 Release notes</a>
   &nbsp;·&nbsp; <a href="https://mannyaiguide.vercel.app/clippeek.html">🌐 ClipPeek on Manny's AI Guide</a>
 </p>
 
@@ -107,7 +107,7 @@ ClipPeek checks for new versions once a day and offers to install them. You can 
 
 ## Install
 
-1. **Download** `ClipPeek-x.y.z.dmg` from the [latest release](https://github.com/mannyarora/clippeek-releases/releases/latest).
+1. **[Download ClipPeek.dmg](https://github.com/mannyarora/clippeek-releases/releases/latest/download/ClipPeek.dmg)**. It always gets the newest version.
 2. Open it and **drag ClipPeek into Applications**.
 3. Open ClipPeek from Applications. Its icon appears in the menu bar at the top right of your screen.
 4. When macOS asks, allow ClipPeek in **System Settings → Privacy & Security → Accessibility**. On newer macOS this list is called **Device Control and Data Access**. This permission is what lets ClipPeek show the grid when you press ⌘V and paste your choice.
