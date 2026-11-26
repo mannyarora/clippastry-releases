@@ -108,8 +108,9 @@ ClipPastry checks for new versions once a day and offers to install them. You ca
 ## Install
 
 1. **[Download ClipPastry.dmg](https://github.com/mannyarora/clippastry-releases/releases/latest/download/ClipPastry.dmg)**. It always gets the newest version.
-2. Open it and **drag ClipPastry into Applications**.
-3. Open ClipPastry from Applications. Its icon appears in the menu bar at the top right of your screen.
+2. Open it and **drag ClipPastry into Applications**. If you already have it, click **Replace** when asked.
+3. Open ClipPastry from Applications. macOS asks if you're sure you want to open an app downloaded from the internet: click **Open**. Its icon then appears in the menu bar at the top right of your screen.<br>
+   <img src="docs/images/open-dialog.png" width="288" alt="macOS asks: “ClipPastry.app” is an app downloaded from the Internet. Are you sure you want to open it? The Open button is circled.">
 4. When macOS asks, allow ClipPastry in **System Settings → Privacy & Security → Accessibility**. On newer macOS this list is called **Device Control and Data Access**. This permission is what lets ClipPastry show the grid when you press ⌘V and paste your choice.
 5. macOS may also ask to let ClipPastry see the folder your screenshots are saved to (Desktop or Downloads). Allow it if you want screenshots in ClipPastry.
 
@@ -150,6 +151,9 @@ Yes. ClipPeek was renamed ClipPastry in version 1.0.2. Nothing else changed: if 
 
 **Sometimes ⌘V just pastes without the grid. Why?**
 When a password box is selected, in any app or browser, macOS turns on *secure input* and hides key presses from every app, ClipPastry included. Click out of the password box and the grid comes back.
+
+**⌘V never shows the grid.**
+ClipPastry doesn't have the Accessibility permission. Click its menu bar icon → **Needs Accessibility access…** and switch ClipPastry on. If it's already on, switch it off and on again: macOS sometimes keeps an old permission that no longer matches the app. (⌃⌘V opens the grid even without the permission.)
 
 **Does Edit → Paste open the grid?**
 No, only the ⌘V shortcut does. Clicking Paste in a menu pastes as usual.
