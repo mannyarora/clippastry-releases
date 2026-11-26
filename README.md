@@ -27,10 +27,12 @@ Every time you copy something, ClipPastry keeps a copy. When you press **⌘V**,
 ## Features
 
 ### ⌘V asks what to paste
-- Your **last 99 copies**, 9 at a time in a 3×3 grid. **Scroll** for older ones. You can set how many to keep (9–99) with a slider in the menu.
+- Your **last 99 copies**, 9 at a time in a 3×3 grid (resize it to see more). **Scroll** for older ones. You can set how many to keep (9–99) with a slider in the menu.
 - **Click** a tile to paste it, or use the **arrow keys + Return**. Press **⌘V twice** to paste your latest copy as usual.
 - Each tile shows a **preview** (text, image thumbnail with its size, or file), the **app** it came from, and the **date and time** you copied it, such as *Today 9:41 AM*, *Yesterday 7:05 PM* or *Nov 23, 10:02 AM*.
 - **NOW** marks what's on your clipboard right now.
+- The grid opens in the **bottom right corner**. Drag its top bar to **move** it, or drag its edges to **resize** it (3–6 tiles across, 2–6 rows). It remembers both.
+- **Light or dark:** click the moon/sun in the grid's top bar. The orange border keeps it from blending into the page behind it.
 
 ### Search: just type
 The search bar is always at the top of the grid. Start typing to filter your whole history by text, app name or date (try "today" or "nov 23"). Return pastes the highlighted match, and Esc clears the search.
@@ -155,6 +157,7 @@ ClipPastry is signed and **notarized by Apple**, so it opens without any "uniden
 | Remember last … copies | 99 (slider 9–99) |
 | Keep History After Restart | On |
 | Ask What to Paste on ⌘V | On |
+| Paste Grid: Light / Dark Background, Reset Size and Position | Light, 3×3 in the bottom right |
 | Copy New Screenshots | On |
 | Show Screenshot Thumbnail (macOS's corner preview) | Same as your Mac's setting (⌘⇧5 → Options) |
 | Show Popup When Copying / Popup Position | On / Bottom |
