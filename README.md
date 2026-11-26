@@ -6,7 +6,8 @@
 
 <p align="center">
   <b>See your clipboard. Choose what to paste.</b><br>
-  A small, free menu bar app for macOS 14 Sonoma or later. Runs on Apple-silicon and Intel Macs.
+  A small, free menu bar app for macOS 14 Sonoma or later. Runs on Apple-silicon and Intel Macs.<br>
+  <sub>by Manish Arora</sub>
 </p>
 
 <p align="center">
@@ -153,3 +154,17 @@ Apple's Universal Clipboard already works with ClipPeek. Pick any old item in Cl
 
 **How do I uninstall it?**
 Quit ClipPeek from its menu, then drag it from Applications to the Trash. To also remove your saved history, delete `~/Library/Application Support/ClipPeek`.
+
+---
+
+## License
+
+**ClipPeek © 2026 Manish Arora. All rights reserved.**
+
+- **Personal use:** free.
+- **Commercial use** (at a business, school or other organization): also free, but **please let us know first** at **aroramanish70@gmail.com**.
+- Please don't sell, modify or redistribute ClipPeek. Share this page instead.
+
+Full terms are in [LICENSE.md](LICENSE.md). ClipPeek includes [Sparkle](https://sparkle-project.org) for updates; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+<p align="center"><sub>ClipPeek © 2026 Manish Arora · <a href="mailto:aroramanish70@gmail.com">aroramanish70@gmail.com</a></sub></p>
