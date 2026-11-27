@@ -98,6 +98,9 @@ Click the ClipPastry icon (a little grid that spells **C P**) for:
 
 There's no Dock icon and nothing to manage. It starts by itself when you log in.
 
+### Copy files, too
+Copy files in Finder and press **⌘V** in a folder: they're pasted right away, with no grid, like on any Mac. In the grid, a tile reads **"3 files"** with their names and the folder they came from, and tells you if they were moved or deleted since. ClipPastry remembers *where* files are, not the files themselves, so even huge files take no space.
+
 ### Works with your other apps
 Dictation apps like **Wispr Flow**, text expanders and password managers paste by sending their own ⌘V. ClipPastry recognizes that and lets them paste normally, so only a ⌘V *you* press opens the grid. Copies that password managers mark as secret are **never kept in your history**.
 
