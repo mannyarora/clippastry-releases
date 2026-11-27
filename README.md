@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/mannyarora/clippastry-releases/releases/latest/download/ClipPastry.dmg"><b>⬇︎ Download ClipPastry for Mac</b></a> <sub>(ClipPastry.dmg, 2 MB)</sub>
   <br><a href="docs/ClipPastry-Guide.pdf">📄 Guide (PDF)</a> &nbsp;·&nbsp; <a href="https://github.com/mannyarora/clippastry-releases/releases">📝 Release notes</a>
-  &nbsp;·&nbsp; <a href="https://mannyaiguide.vercel.app/clippastry.html">🌐 ClipPastry on Manny's AI Guide</a>
+  &nbsp;·&nbsp; <a href="https://clippastry.com">🌐 clippastry.com</a>
 </p>
 
 <p align="center">
