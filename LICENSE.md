@@ -2,11 +2,11 @@
 
 **Copyright © 2026 Manish Arora. All rights reserved.**
 
-ClipPastry is **free for personal use**. It is not open source: ClipPastry remains the property of its author.
+ClipPastry is **free for everyone**, for personal and commercial use. It is not open source: ClipPastry remains the property of its author.
 
-1. **Personal use.** You may download, install and use ClipPastry free of charge for personal, non-commercial use.
+1. **Personal and commercial use.** Anyone may download, install and use ClipPastry free of charge, at home or at a business, school, government agency or any other organization, on any number of Macs. No license request is needed.
 
-2. **Commercial use.** Using ClipPastry at a business, school, government agency or any other organization **requires a commercial license**. To request one, email **aroramanish70@gmail.com** with your organization's name and roughly how many people will use it.
+2. **Not for resale.** The free use above covers using ClipPastry, not selling or redistributing it (see below).
 
 3. **What's not allowed.** You may not sell, rent, sublicense or redistribute ClipPastry, modify it, or present it as your own. To share ClipPastry, please send people to the official download page, **https://github.com/mannyarora/clippastry-releases**, rather than passing copies of the app around.
 
@@ -14,4 +14,4 @@ ClipPastry is **free for personal use**. It is not open source: ClipPastry remai
 
 5. **Third-party software.** ClipPastry includes [Sparkle](https://sparkle-project.org) for automatic updates, used under the MIT License. See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
-For commercial licensing or questions, email **aroramanish70@gmail.com**.
+For questions or feedback, email **aroramanish70@gmail.com**.

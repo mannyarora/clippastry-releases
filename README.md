@@ -189,8 +189,7 @@ Quit ClipPastry from its menu, then drag it from Applications to the Trash. To a
 
 **ClipPastry © 2026 Manish Arora. All rights reserved.**
 
-- **Personal use:** free.
-- **Commercial use** (at a business, school or other organization): **requires a commercial license**. For licensing, email **aroramanish70@gmail.com**.
+- **Free for everyone:** personal and commercial use, at home or at a business, school or other organization. No license request needed.
 - Please don't sell, modify or redistribute ClipPastry. Share this page instead.
 
 Full terms are in [LICENSE.md](LICENSE.md). ClipPastry includes [Sparkle](https://sparkle-project.org) for updates; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
