@@ -51,12 +51,13 @@ You can't delete a pinned clip unless you unpin it. If you try, ClipPastry tells
 
 <p align="center"><img src="docs/images/pinned-protected.png" width="640" alt="Message: You can't delete a pinned clip unless you unpin it, with Unpin and OK buttons"></p>
 
-### Delete one clip, or many at once
-- **One:** hover over a tile and click ✕, or press **⌫**.
-- **Many:** **⌘-click** tiles, **Shift-click** for a range, or **⌘A** for all. Then press **⌫** or click **Delete…**.
+### Paste or delete several clips at once
+- **Select:** **⌘-click** tiles, **Shift-click** for a range, or **⌘A** for all.
+- **Paste them:** press **Return** or click **Paste**, and they're pasted one after another in the order you picked them, pictures too. **⇧Return** or **Together** joins the text into one paste, each clip on its own line.
+- **Delete them:** press **⌫** or click **Delete…** (for one clip, hover over its tile and click ✕).
 - ClipPastry **always asks first**, and **Esc** keeps everything. If your selection includes pinned clips, only the unpinned ones are removed.
 
-<p align="center"><img src="docs/images/multi-select.png" width="640" alt="Three clips selected, with Pin, Delete and Done buttons"></p>
+<p align="center"><img src="docs/images/multi-select.png" width="640" alt="Three clips selected, with Paste, Together, Pin, iCloud, Delete and Done buttons"></p>
 <p align="center"><img src="docs/images/delete-confirm.png" width="640" alt="Confirmation: Remove 3 items from ClipPastry? 1 pinned clip is kept"></p>
 
 ### Paste as plain text
@@ -110,12 +111,14 @@ ClipPastry checks for new versions once a day and offers to install them. You ca
 | In the grid | What it does |
 |---|---|
 | **⌘V** (again) or **Return** | Paste the highlighted tile (your latest copy by default) |
+| **⌘1** … **⌘9** | Paste tile 1 to 9 |
 | **⌥** + any of the above | Paste as plain text |
-| *type anything* | Search |
+| *type anything* | Search (numbers too) |
 | **← ↑ ↓ →** | Move around the grid |
 | **⌘P** | Pin / unpin |
 | **⌘S** | Save to iCloud Drive (the highlighted clip, or all selected) |
 | **⌘-click**, **Shift-click**, **⌘A** | Select several |
+| **Return** / **⇧Return** with several selected | Paste them one after another / together |
 | **⌫** | Remove (asks first) |
 | **Esc** | Clear the search, clear the selection, or close |
 | **Red dot** (top left) | Close the grid |
